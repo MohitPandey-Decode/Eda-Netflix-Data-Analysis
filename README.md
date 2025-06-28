@@ -13,7 +13,6 @@ This project focuses on performing Exploratory Data Analysis (EDA) on the Netfli
 - Top countries and directors by content count
 
 ## Tools Used:
-- Python
 - Pandas
 - Matplotlib
 - Jupyter Notebook
