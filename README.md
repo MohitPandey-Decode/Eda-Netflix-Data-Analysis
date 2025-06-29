@@ -1,8 +1,14 @@
 # Eda-Netflix-Data-Analysis
 Exploratory Data Analysis of Netflix dataset using only Pandas and matplotlib . Visual insight on content type , release trends , ratings , and more. 
 <br>
-# Netflix Dataset - Exploratory Data Analysis (EDA)
 
+## 📌 Project Highlights:
+- Performed EDA on Netflix dataset using Pandas and Matplotlib
+- Cleaned missing data and removed duplicates
+- Analyzed content type, country distribution, release trends, and ratings
+- Created visualizations to communicate key patterns and trends
+- 
+# Netflix Dataset - Exploratory Data Analysis (EDA)
 This project focuses on performing Exploratory Data Analysis (EDA) on the Netflix dataset using Python libraries such as Pandas and Matplotlib.
 
 ## Key Insights:
